@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">وِصال</string>
+    <string name="app_tagline">أكثر من مجرد تواصل</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_discover">اكتشف</string>
+    <string name="nav_create">إنشاء</string>
+    <string name="nav_notifications">الإشعارات</string>
+    <string name="nav_profile">الملف</string>
+</resources>

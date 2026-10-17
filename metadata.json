@@ -1,0 +1,6 @@
+{
+  "name": "وِصال",
+  "description": "منصة اجتماعية عربية متكاملة تفتح لك عالمًا جديدًا من العلاقات والتجارب المميزة - أكثر من مجرد تواصل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
